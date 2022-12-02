@@ -1,0 +1,40 @@
+ #logosignin img {
+    width: 250px;
+    height: auto;
+    margin: 0 auto;
+}
+#logosignin {
+    width: 350px;
+    height: 350px;
+    margin: 20px;
+    float: right;
+}
+#logosignin a {
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: #FF69B4;
+    box-sizing: border-box;
+    display: block;
+ }
+#eventnav {
+    height: 75px;
+}
+#logosignin li {
+    bottom: 30px;
+    list-style: none;
+    display: inline-block;
+    margin: 0 auto;
+   }
+#eventshow {
+    margin-top: 50px;
+}
+#eventlink {
+    margin: 0 auto;
+    text-align: center;
+    left: 20px;
+}
+.text-center{
+  text-align:center;
+}
